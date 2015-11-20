@@ -1,0 +1,66 @@
+{
+
+"Cities": 
+  [
+    {
+    "city": "Tokyo",
+    "population":"35676000",
+    "longitude": "139.7486897",
+    "latitude": "35.68391771"
+    },
+    {
+    "city": "New York",
+    "population":"19040000",
+    "longitude": "-74.00537805",
+    "latitude": "40.7381845"
+    },
+    {
+    "city": "Mexico City",
+    "population":"19028000",
+    "longitude": "-99.13602089",
+    "latitude": "19.43436373"
+    },
+    {
+    "city": "Mumbai",
+    "population":"18978000",
+    "longitude": "72.82937796",
+    "latitude": "19.0031123"
+    },
+    {
+    "city": "Sao Paulo",
+    "population":"18845000",
+    "longitude": "-46.64887827",
+    "latitude": "-23.57002913"
+    },
+    {
+    "city": "Delhi",
+    "population":"15926000",
+    "longitude": "77.20929",
+    "latitude": "28.66314439"
+    },
+    {
+    "city": "Shanghai",
+    "population":"14987000",
+    "longitude": "121.4033205",
+    "latitude": "31.21615287"
+    },
+    {
+    "city": "Kolkata",
+    "population":"14787000",
+    "longitude": "88.30267376",
+    "latitude": "22.48762387"
+    },
+    {
+    "city": "Dhaka",
+    "population":"12797394",
+    "longitude": "90.38492703",
+    "latitude": "23.71237794"
+    },
+    {
+    "city": "Buenos Aires",
+    "population":"12795000",
+    "longitude": "-58.42437949",
+    "latitude": "-34.61006581"
+    }
+  ]
+}
